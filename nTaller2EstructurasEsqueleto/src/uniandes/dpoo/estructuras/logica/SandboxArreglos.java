@@ -194,6 +194,7 @@ public class SandboxArreglos
      * Cuenta cuántas veces aparece la cadena recibida por parámetro en el arreglo de cadenas.
      * 
      * La búsqueda no debe diferenciar entre mayúsculas y minúsculas.
+     * iajshfdjkv
      * @param cadena La cadena buscada
      * @return La cantidad de veces que aparece la cadena
      */
